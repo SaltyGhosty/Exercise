@@ -1,0 +1,35 @@
+# Exercise
+
+# El codigo print imprime en la consola el mensaje "Hola mundo"
+print("Hola mundo")
+
+print("Luciano,26 años") 
+
+print(type(2))
+
+print(type("Luciano"))
+
+print(type(6.6))
+
+'''en los print anteriores utilice 3 tipos de datos,
+Int = numeros enteros
+Str = cadenas de texto
+Float = numeros decimales
+'''
+
+print("Hola" + " mundo ")
+
+# variables para almacenar datos 
+nombre = "Luciano"
+edad = 26
+print(nombre  +  " " +   str(edad))
+
+a = 36  
+b = 22
+
+print(a + b)
+#en la funcion anterior se sumas dos variables, a y b,a la cual se le asigno un valor numerico y con la funcion print se imprime el resultado de la suma de las dos variables
+
+
+nombre_usuario = input("Por favor, ingrese su nombre: ")
+print("Hola, mucho gusto " + nombre_usuario)
